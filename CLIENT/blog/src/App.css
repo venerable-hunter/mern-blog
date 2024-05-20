@@ -1,0 +1,40 @@
+BODY,button{
+    /* background-color:#403D39 ;
+} */
+
+
+nav{
+    background-color: #EB5E28;
+}
+
+.CARD{
+    
+    background-color:#fef8e4 ;
+    color: rgb(0, 0, 0);
+    box-shadow: 1px  1px 10px rgb(0, 0, 0);
+    
+}
+/* colors{
+    #EB5E28 - ORGNE
+    #252422- GREY
+    #403D39 -LIGHT GREY
+    #CCC5B9- DRAK CREME  
+    #FFFCF2 -LIGHT CREM ;
+} */
+
+#createpost{
+    background:#403D39;
+    height: 100vh;
+}
+
+h5, a{
+    text-decoration: none;
+    color: rgb(32, 32, 32);
+}
+
+img{width: 100%;
+    object-fit: cover;
+    padding: 5px;
+    
+}
+
